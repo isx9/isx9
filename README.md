@@ -1,4 +1,5 @@
-# Hi there!
+Data Science MSc student building across the ML stack: from statistical modeling to deployed systems ✨
 
-I'm a Data Science student, driven by curiosity about the patterns that shape data and behaviour ✨
+![Skills](https://skillicons.dev/icons?i=py,r,cpp,tensorflow,sklearn,postgres,mongodb,docker,aws,jupyter)
 
+📫 isa.dilorenzi9@gmail.com
